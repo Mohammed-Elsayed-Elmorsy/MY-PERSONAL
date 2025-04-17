@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.ad17b91f.css",
-    "main.js": "./static/js/main.9b968379.js",
+    "main.css": "./static/css/main.8101cae3.css",
+    "main.js": "./static/js/main.c23d74a0.js",
     "static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.png": "./static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.ce29a74f1505a48707a8.png",
     "static/media/Screenshot (17).png": "./static/media/Screenshot (17).dd685f2e8869daf52a8b.png",
+    "static/media/quran.png": "./static/media/quran.851735845721c6bec60a.png",
     "static/media/travel.png": "./static/media/travel.f6aed73315162e84587b.png",
-    "static/media/Screenshot (11).png": "./static/media/Screenshot (11).6e3ae2e52eedc3e2c451.png",
-    "static/media/jasmine-plant-blossom-flower-beautiful-scented-kitchen.jpg": "./static/media/jasmine-plant-blossom-flower-beautiful-scented-kitchen.b1a2d31c89dd3cbfa638.jpg",
-    "static/media/mo.jpg": "./static/media/mo.06a282dbefe711042be8.jpg",
+    "static/media/mo.jpg": "./static/media/mo.f479ef63a0163b41564d.jpg",
+    "static/media/mo0.jpg": "./static/media/mo0.b9445e7b32c1cdeb39cf.jpg",
     "static/media/rest2.jpg": "./static/media/rest2.46cdebeaa2671e03ec81.jpg",
     "static/media/Screenshot (23).png": "./static/media/Screenshot (23).c7a858fc474bdda437f1.png",
     "static/media/hotel.jpg": "./static/media/hotel.3c0d320e931a73edde3f.jpg",
+    "static/media/next.png": "./static/media/next.6d8480e37bfdca4c50f4.png",
     "index.html": "./index.html",
-    "main.ad17b91f.css.map": "./static/css/main.ad17b91f.css.map",
-    "main.9b968379.js.map": "./static/js/main.9b968379.js.map"
+    "main.8101cae3.css.map": "./static/css/main.8101cae3.css.map",
+    "main.c23d74a0.js.map": "./static/js/main.c23d74a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad17b91f.css",
-    "static/js/main.9b968379.js"
+    "static/css/main.8101cae3.css",
+    "static/js/main.c23d74a0.js"
   ]
 }
