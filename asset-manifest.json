@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b6f09016.css",
-    "main.js": "./static/js/main.5b4aa2cf.js",
+    "main.css": "./static/css/main.8cec69cc.css",
+    "main.js": "./static/js/main.2412883f.js",
     "static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.png": "./static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.ce29a74f1505a48707a8.png",
     "static/media/Screenshot (17).png": "./static/media/Screenshot (17).dd685f2e8869daf52a8b.png",
     "static/media/quran.png": "./static/media/quran.851735845721c6bec60a.png",
@@ -14,11 +14,11 @@
     "static/media/hotel.jpg": "./static/media/hotel.3c0d320e931a73edde3f.jpg",
     "static/media/next.png": "./static/media/next.6d8480e37bfdca4c50f4.png",
     "index.html": "./index.html",
-    "main.b6f09016.css.map": "./static/css/main.b6f09016.css.map",
-    "main.5b4aa2cf.js.map": "./static/js/main.5b4aa2cf.js.map"
+    "main.8cec69cc.css.map": "./static/css/main.8cec69cc.css.map",
+    "main.2412883f.js.map": "./static/js/main.2412883f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6f09016.css",
-    "static/js/main.5b4aa2cf.js"
+    "static/css/main.8cec69cc.css",
+    "static/js/main.2412883f.js"
   ]
 }
