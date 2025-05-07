@@ -3,7 +3,7 @@ import { FaArrowLeft, FaBars } from 'react-icons/fa'
 const Header = () => {
     const [showmenu, setShowmenu] = useState(false)
     return (
-        <header className={` bg-slate-20 flex justify-between items-center h-[100px]`}>
+        <header className={` bg-slate-20 flex justify-between items-center h-[75px]`}>
             <div >
                 <h3 className=' font-bold text-lg'>PORTFOLIO</h3>
                 <p className=' text-gray-600 mt-[-5px]'> MOHAMMED ELMORSY</p>

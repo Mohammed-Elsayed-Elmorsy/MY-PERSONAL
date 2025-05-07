@@ -1,11 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Cuprum:ital,wght@0,400..700;1,400..700&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Cuprum', sans-serif;
 
-body{font-family: Arial, Helvetica, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #C3DDFF;
     background-image: url(./assets/b.png);
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;} 
+/* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+} 
 html {
     scroll-behavior: smooth;
 }

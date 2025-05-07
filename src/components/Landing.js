@@ -1,15 +1,13 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import img from '../assets/mo.jpg'
 import 'animate.css';
-import ReadMore from './ReadMore';
 import { useState } from 'react';
-import { FaAngleLeft } from 'react-icons/fa';
 import DataMe from './DataMe';
-import { GoX } from 'react-icons/go';
+
 const Landing = () => {
     const [showRead, setShowRead] = useState(false)
     return (
-        <div style={{ height: 'calc(100vh - 100px)' }} id='home' className=' md:flex md:h-[100vh]  items-center gap-5 md:p-0 pt-[150px] md:mt-[100px]'>
+        <div style={{ height: 'calc(100vh - 75px)' }} id='home' className=' md:flex md:h-[100vh]  items-center gap-5 md:p-0 pt-[150px] md:mt-[100px]'>
             <div className=' flex flex-col gap-3 flex-1  md:text-left'>
                 <div>
                     <h3 className='animate__animated animate__rubberBand font-bold text-[22px]'>Hi It's Me</h3>
