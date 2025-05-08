@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/css/main.7abd0803.css",
-    "main.js": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/js/main.516e2c28.js",
-    "static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.ce29a74f1505a48707a8.png",
-    "static/media/Screenshot (17).png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/Screenshot (17).dd685f2e8869daf52a8b.png",
-    "static/media/quran.png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/quran.851735845721c6bec60a.png",
-    "static/media/travel.png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/travel.f6aed73315162e84587b.png",
-    "static/media/mo.jpg": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/mo.f479ef63a0163b41564d.jpg",
-    "static/media/first.png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/first.d95c204b28811e616f33.png",
-    "static/media/cert1.jpg": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/cert1.82802234d151f744fd2c.jpg",
-    "static/media/mo0.jpg": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/mo0.7abe73fa7070cf4d31fc.jpg",
-    "static/media/dash.png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/dash.6d3b193b7db87c1a0379.png",
-    "static/media/rest2.jpg": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/rest2.46cdebeaa2671e03ec81.jpg",
-    "static/media/Screenshot (23).png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/Screenshot (23).c7a858fc474bdda437f1.png",
-    "static/media/hotel.jpg": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/hotel.3c0d320e931a73edde3f.jpg",
-    "static/media/next.png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/next.6d8480e37bfdca4c50f4.png",
-    "static/media/b.png": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/media/b.c43e0ab64a2156d50f14.png",
-    "index.html": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/index.html",
-    "main.7abd0803.css.map": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/css/main.7abd0803.css.map",
-    "main.516e2c28.js.map": "/Mohammed-Elsayed-Elmorsy/MY-PERSONAL/static/js/main.516e2c28.js.map"
+    "main.css": "/MY-PERSONAL/static/css/main.316581a1.css",
+    "main.js": "/MY-PERSONAL/static/js/main.45158ee0.js",
+    "static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.png": "/MY-PERSONAL/static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.ce29a74f1505a48707a8.png",
+    "static/media/Screenshot (17).png": "/MY-PERSONAL/static/media/Screenshot (17).dd685f2e8869daf52a8b.png",
+    "static/media/quran.png": "/MY-PERSONAL/static/media/quran.851735845721c6bec60a.png",
+    "static/media/travel.png": "/MY-PERSONAL/static/media/travel.f6aed73315162e84587b.png",
+    "static/media/mo.jpg": "/MY-PERSONAL/static/media/mo.f479ef63a0163b41564d.jpg",
+    "static/media/first.png": "/MY-PERSONAL/static/media/first.d95c204b28811e616f33.png",
+    "static/media/mo0.jpg": "/MY-PERSONAL/static/media/mo0.7abe73fa7070cf4d31fc.jpg",
+    "static/media/dash.png": "/MY-PERSONAL/static/media/dash.6d3b193b7db87c1a0379.png",
+    "static/media/rest2.jpg": "/MY-PERSONAL/static/media/rest2.46cdebeaa2671e03ec81.jpg",
+    "static/media/Screenshot (23).png": "/MY-PERSONAL/static/media/Screenshot (23).c7a858fc474bdda437f1.png",
+    "static/media/hotel.jpg": "/MY-PERSONAL/static/media/hotel.3c0d320e931a73edde3f.jpg",
+    "static/media/next.png": "/MY-PERSONAL/static/media/next.6d8480e37bfdca4c50f4.png",
+    "static/media/b.png": "/MY-PERSONAL/static/media/b.c43e0ab64a2156d50f14.png",
+    "index.html": "/MY-PERSONAL/index.html",
+    "main.316581a1.css.map": "/MY-PERSONAL/static/css/main.316581a1.css.map",
+    "main.45158ee0.js.map": "/MY-PERSONAL/static/js/main.45158ee0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7abd0803.css",
-    "static/js/main.516e2c28.js"
+    "static/css/main.316581a1.css",
+    "static/js/main.45158ee0.js"
   ]
 }
